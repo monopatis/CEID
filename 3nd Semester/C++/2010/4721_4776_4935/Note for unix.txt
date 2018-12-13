@@ -1,0 +1,2 @@
+Δεν κάνει compile σε Unix ούτε αποσφαλμάτωση. Πρέπει να είναι σε ένα cpp αρχείο ή με:
+ g++ -o prog Main.cpp Keli.cpp Soldier.cpp Toxotis.cpp Xifomaxos.cpp 
