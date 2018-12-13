@@ -1,0 +1,9 @@
+program alex ;
+var	meta : integer ; 
+	kati : integer ;
+begin 
+meta = 5 mod 4;
+kati := 4;
+while 2!=4 do meta:=meta+1
+end
+.

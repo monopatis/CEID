@@ -1,0 +1,32 @@
+#!/bin/bash
+./server& #server sto paraskinio
+./client 1 1 parkingone descriptionone 4
+./client 1 1 parkingtwo descriptiontwo 5.5
+./client 1 1 parkingthree descriptionthree 6
+./client 1 1 parkingfour descriptionfour 4.5
+./client 2 1 dafni gavriil
+./client 2 1 dimitris monopatis
+./client 2 1 jenny georga&
+./client 2 1 kostas georgiou&
+./client 2 1 panagiotis papas&
+./client 2 1 giorgos xristou
+./client 2 1 nikos dimitriou
+./client 2 1 giota nikolaou
+./client 2 1 maria petropoulou
+./client 2 1 georgia konstantinou
+./client 2 4 'dafni gavriil' 20&
+./client 2 4 'dimitris monopatis' 25&
+./client 2 4 'jenny georga' 27&
+./client 2 4 'kostas georgiou' 30&
+./client 2 4 'panagiotis papas' 15&
+./client 2 4 'giorgos xristou' 10&
+./client 2 4 'nikos dimitriou' 3&
+./client 2 4 'giota nikolaou' 40&
+./client 2 4 'maria petropoulou' 34&
+./client 2 4 'georgia konstantinou' 34
+for((i=1;i<=2;i++))
+do 
+(for((j=1;j<=10;j++))
+do ./client 2 2 $i $j $j
+done&)
+done
