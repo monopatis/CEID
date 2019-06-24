@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=int\ get()
+comment1.params=thing
+comment1.target=void\ put(int)
+numComments=2

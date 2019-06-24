@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=MyAppEv(String)
+comment1.params=e
+comment1.target=void\ actionPerformed(ActionEvent)
+comment2.params=args
+comment2.target=void\ main(String[])
+numComments=3

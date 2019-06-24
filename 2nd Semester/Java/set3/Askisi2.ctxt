@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=ae
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ start()
+comment4.params=x\ y
+comment4.target=void\ kinishkoumpiou(int,\ int)
+comment5.params=
+comment5.target=void\ check()
+numComments=6

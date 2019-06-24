@@ -1,0 +1,26 @@
+19/04/2017 22:03:49 Kalosirthate sto pazzle 6 psifion !
+Read from file: /home/mitsos/lisp/gamein.txt
+Arxikh katastash: (B W B _ W B W)
+Metakinhsh apo thn thesh: 3, nea katastash: (B W _ B W B W)
+Metakinhsh apo thn thesh: 2, nea katastash: (B _ W B W B W)
+Metakinhsh apo thn thesh: 6, nea katastash: (B B _ W B W W)
+Metakinhsh apo thn thesh: 6, nea katastash: (B B W _ W B W)
+Metakinhsh apo thn thesh: 5, nea katastash: (B B W W _ B W)
+19/04/2017 22:04:37 Kalosirthate sto pazzle 6 psifion !
+Arxikh katastash: (B W _ W)
+Error! H arxikh katastash den einai sosti! Anagnosi apo to pliktrologio.
+Arxikh katastash: (B W W _ WWB)
+Error! H arxikh katastash den einai sosti! Anagnosi apo to pliktrologio.
+Arxikh katastash: (B B B _ W W W)
+Metakinhsh apo thn thesh: 4, nea katastash: (B B B _ W W W)
+Metakinhsh apo thn thesh: 5, nea katastash: (B B B W _ W W)
+
+Metakinhsh apo thn thesh: 1, nea katastash: (B B W _ B W W)
+Metakinhsh apo thn thesh: 1, nea katastash: (B W _ B B W W)
+Metakinhsh apo thn thesh: 4, nea katastash: (B W B _ B W W)
+19/04/2017 22:06:45 Kalosirthate sto pazzle 6 psifion !
+Arxikh katastash: (B W B _ W B W)
+Metakinhsh apo thn thesh: 1, nea katastash: (W B _ B W B W)
+Metakinhsh apo thn thesh: 5, nea katastash: (W B W _ B B W)
+Metakinhsh apo thn thesh: 2, nea katastash: (W W _ B B B W)
+Metakinhsh apo thn thesh: 7, nea katastash: (W W W _ B B B)

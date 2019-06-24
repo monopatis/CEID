@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=lastname\ firstname\ age\ married\ salary\ sex
+comment0.target=Person(String,\ String,\ int,\ boolean,\ float,\ int)
+comment1.target=String\ getLastName()
+comment10.params=married
+comment10.target=void\ setMarried(boolean)
+comment11.params=salary
+comment11.target=void\ setSalary(float)
+comment12.target=int\ getSex()
+comment13.params=Sex
+comment13.target=void\ setSex(int)
+comment2.target=String\ getFirstName()
+comment3.target=int\ getAge()
+comment4.target=boolean\ isMarried()
+comment5.target=float\ getSalary()
+comment6.target=void\ printInfo()
+comment7.params=lastname
+comment7.target=void\ setLastName(String)
+comment8.params=firstname
+comment8.target=void\ setFirstName(String)
+comment9.params=age
+comment9.target=void\ setAge(int)
+numComments=14

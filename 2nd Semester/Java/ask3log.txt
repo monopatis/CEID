@@ -1,0 +1,69 @@
+Window size=3
+Window message = Second MWindow
+2
+3
+Window size=1
+Window size=2
+1
+2
+Window size=1
+Window message = First MWindow
+Window size=3
+Window message = Second MWindow
+2
+3
+4
+6
+8
+Window size=1
+Window size=2
+1
+2
+Window size=1
+Window message = First MWindow
+Window size=3
+Window message = Second MWindow
+2
+7
+4
+4
+4
+
+4)
+
+Window size=1
+Window size=2
+1
+2
+Window size=1
+Window message = First MWindow
+Window size=3
+Window message = Second MWindow
+2
+7
+4
+4
+4
+Size=1
+Size=5
+MSize=4
+Size=5
+
+5)
+Window size=1
+Window size=2
+1
+2
+Window size=1
+Window message = First MWindow
+Window size=3
+Window message = Second MWindow
+2
+7
+4
+4
+4
+Size=1
+Size=5
+5
+Size=5
